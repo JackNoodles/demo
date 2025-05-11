@@ -1,3 +1,3 @@
 <?php 
-	echo "this is footer page";
+	echo "this is footer page.";
 ?>
